@@ -733,7 +733,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: d92fc9f1233f93b418e9e8695f20a160, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 0
   m_Pitch: 1
   Loop: 1
@@ -742,7 +742,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 0.5390396
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -827,7 +827,7 @@ Transform:
   m_GameObject: {fileID: 506880898}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.23338625, y: 0.8338144, z: -0.043679345}
+  m_LocalPosition: {x: 4.1, y: -2.84, z: -0.043679345}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1781,7 +1781,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 2e6530ddc50bd0f4fb9fa793eef3cc4c, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1790,7 +1790,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 0.66654885
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -1875,7 +1875,7 @@ Transform:
   m_GameObject: {fileID: 986155103}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.23338625, y: 0.8338144, z: -0.043679345}
+  m_LocalPosition: {x: 2.17, y: -2.93, z: -0.043679345}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
